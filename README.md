@@ -19,7 +19,7 @@ As stated above the main purpose is to provide simple examples for Git training 
 
 This is a simple web project, deployment can be anywhere
 
-##Copyright 
+##Copyright !!
 Git.training
 
 Practising merge tools like P4merge
