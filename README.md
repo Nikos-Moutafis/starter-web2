@@ -2,7 +2,7 @@
 
 This is a simple website project for 
 showing how to use Git and GitHub together.
-From a udemy course.
+From a udemy course.Adding a line for rebasing example
 
 ##Introduction
 
